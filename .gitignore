@@ -27,5 +27,3 @@ target/
 .idea/*.xml
 .idea/**/*.xml
 akka-project.iml
-pom.xml
-src/
