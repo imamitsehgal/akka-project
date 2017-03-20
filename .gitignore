@@ -27,3 +27,5 @@ target/
 .idea/*.xml
 .idea/**/*.xml
 akka-project.iml
+src/main/java/
+src/test/
